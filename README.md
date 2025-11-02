@@ -1,20 +1,20 @@
 ## **Network Traffic Analyzer using Wireshark for Smart City Management**
-## **Project Title
+## Project Title
 
 Network Traffic Analyzer using Wireshark for Smart City Management
 
-## **SDG Alignment
+## SDG Alignment
 
 SDG 11 – Sustainable Cities and Communities
 Goal: Make cities inclusive, safe, resilient, and sustainable.
 
-## **1. Introduction
+## 1. Introduction
 
 Smart cities depend on interconnected systems such as smart traffic lights, surveillance cameras, IoT devices, and public Wi-Fi networks. These networks generate large amounts of data and require constant monitoring to ensure performance, security, and reliability.
 
 A Network Traffic Analyzer helps monitor, analyze, and troubleshoot data flow between devices. Wireshark, an open-source network protocol analyzer, can capture and visualize packets in real-time—making it ideal for ensuring smooth communication in smart city infrastructures.
 
-## **2. Objectives
+## 2. Objectives
 
 To monitor and analyze real-time network traffic in a smart city network setup.
 
@@ -24,7 +24,7 @@ To optimize data transfer between IoT devices and servers.
 
 To ensure reliable and sustainable digital infrastructure for urban management.
 
-## **3. Tools & Technologies
+## 3. Tools & Technologies
 
 Wireshark – For packet capture and analysis.
 
@@ -34,7 +34,7 @@ Operating System – Windows/Linux.
 
 Protocols Analyzed – TCP, UDP, HTTP, MQTT, ICMP, etc.
 
-## **4. Methodology
+## 4. Methodology
 
 Setup Smart City Network Simulation
 
@@ -56,7 +56,7 @@ Suggest Improvements
 
 Recommend better routing, device configuration, or security measures.
 
-## **5. Expected Outcomes
+## 5. Expected Outcomes
 
 Efficient monitoring of network health and data flow.
 
@@ -66,7 +66,7 @@ Improved sustainability through optimized network resource usage.
 
 Enhanced reliability and security of smart city systems.
 
-## **6. Contribution to SDG 11
+## 6. Contribution to SDG 11
 
 Promotes sustainable infrastructure by reducing data loss and energy consumption.
 
